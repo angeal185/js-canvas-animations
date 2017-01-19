@@ -1,0 +1,34 @@
+body
+  background-color #000000
+  margin 0px
+  overflow hidden
+
+.container
+  height 100%
+
+#shell
+  position absolute
+  top 50%
+  left 50%
+  #bg
+    transition all 0.15s ease-in-out
+    transition all 0.15s easeout
+    width 150px
+    margin-left -50px
+    height 10px
+    background rgba(0,0,0,0.5)
+    position relative
+    #bar
+      transition all 0.15s ease-in-out
+      transition all 0.15s easeout
+      position absolute
+      top 2px
+      left 2px
+      background rgba(255,255,255,0.5)
+      height 6px
+      width 0px
+      line-height 196px
+      text-align center
+      font-size 30px
+      color rgba(0,0,0,0.5)
+

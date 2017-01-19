@@ -1,0 +1,25 @@
+container {
+  margin: 0;
+  width: auto;
+}
+::-webkit-scrollbar {
+  z-index: 30;
+  width: 5px;
+  height: 0;
+  y-index: hidden;
+}
+::-webkit-scrollbar-track {
+  background-color: #111;
+  border-radius: 0;
+  box-shadow: none;
+  border: 0;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #2b2e33;
+  border-radius: 0;
+  box-shadow: none;
+  border: 0;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: transparent;
+}

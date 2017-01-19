@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>particleBlur</title>
+  
+  
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  
+<canvas></canvas>
+<div class="theme-dark bg-dark" id="warning" style="display: block">
+  <div>
+    <h2>Content warning</h2>
+    <h3 class="animated fadeIn">This site makes heavy use of javascript</h3><br/><a class="button" href="#">Continue
+      <svg class="svg-filters">
+        <defs>
+          <filter id="filter">
+            <feturbulence type="fractalNoise" basefrequency="0.00001 0.00001" numoctaves="1" result="warp"></feturbulence>
+            <fedisplacementmap xchannelselector="R" ychannelselector="G" scale="45" in="SourceGraphic" in2="warp"></fedisplacementmap>
+          </filter>
+        </defs>
+      </svg></a>
+  </div>
+</div>
+  <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js'></script>
+
+    <script src="js/index.js"></script>
+
+</body>
+</html>

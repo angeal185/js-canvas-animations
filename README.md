@@ -1,73 +1,51 @@
 # js-canvas-animations
 
 ## Shiny Demos
-````
-GLITCH!!!
-https://angeal185.github.io/js-canvas-animations/GLITCH!!!/
 
-animated-canvas-backgrounds
-https://angeal185.github.io/js-canvas-animations/animated-canvas-backgrounds/
+[GLITCH!!!](https://angeal185.github.io/js-canvas-animations/GLITCH!!!/)
 
-animated-canvas-bubbles
-https://angeal185.github.io/js-canvas-animations/animated-canvas-bubbles
+[animated-canvas-backgrounds](https://angeal185.github.io/js-canvas-animations/animated-canvas-backgrounds)
 
-animated-dots-jquery-canvas-plugin
-https://angeal185.github.io/js-canvas-animations/animated-dots-jquery-canvas-plugin
+[animated-canvas-bubbles](https://angeal185.github.io/js-canvas-animations/animated-canvas-bubbles)
 
-animated-hex-canvas
-https://angeal185.github.io/js-canvas-animations/animated-hex-canvas
+[animated-dots-jquery-canvas-plugin](https://angeal185.github.io/js-canvas-animations/animated-dots-jquery-canvas-plugin)
 
-broken-loader
-https://angeal185.github.io/js-canvas-animations/broken-loader
+[animated-hex-canvas](https://angeal185.github.io/js-canvas-animations/animated-hex-canvas)
 
-bubble
-https://angeal185.github.io/js-canvas-animations/bubble
+[broken-loader](https://angeal185.github.io/js-canvas-animations/broken-loader)
 
-canvas-triangular-particle-animation
-https://angeal185.github.io/js-canvas-animations/canvas-triangular-particle-animation
+[bubble](https://angeal185.github.io/js-canvas-animations/bubble)
 
-css-loader-of-hell
-https://angeal185.github.io/js-canvas-animations/css-loader-of-hell
+[canvas-triangular-particle-animation](https://angeal185.github.io/js-canvas-animations/canvas-triangular-particle-animation)
 
-gitlab-logo-animate
-https://angeal185.github.io/js-canvas-animations/gitlab-logo-animate
+[css-loader-of-hell](https://angeal185.github.io/js-canvas-animations/css-loader-of-hell)
 
-gradient-bubble-animation
-https://angeal185.github.io/js-canvas-animations/gradient-bubble-animation
+[gitlab-logo-animate](https://angeal185.github.io/js-canvas-animations/gitlab-logo-animate)
 
-hex-background
-https://angeal185.github.io/js-canvas-animations/hex-background
+[gradient-bubble-animation](https://angeal185.github.io/js-canvas-animations/gradient-bubble-animation)
 
-jquery-animated-starfield
-https://angeal185.github.io/js-canvas-animations/jquery-animated-starfield
+[hex-background](https://angeal185.github.io/js-canvas-animations/hex-background)
 
-js-word-animation
-https://angeal185.github.io/js-canvas-animations/js-word-animation
+[jquery-animated-starfield](https://angeal185.github.io/js-canvas-animations/jquery-animated-starfield)
 
-loader-hover-mixup
-https://angeal185.github.io/js-canvas-animations/loader-hover-mixup
+[js-word-animation](https://angeal185.github.io/js-canvas-animations/js-word-animation)
 
-loading
-https://angeal185.github.io/js-canvas-animations/loading
+[loader-hover-mixup](https://angeal185.github.io/js-canvas-animations/loader-hover-mixup)
 
-not-found-glitch
-https://angeal185.github.io/js-canvas-animations/not-found-glitch
+[loading](https://angeal185.github.io/js-canvas-animations/loading)
 
-on-hover-animate
-https://angeal185.github.io/js-canvas-animations/on-hover-animate
+[not-found-glitch](https://angeal185.github.io/js-canvas-animations/not-found-glitch)
 
-particle-animation
-https://angeal185.github.io/js-canvas-animations/particle-animation
+[on-hover-animate](https://angeal185.github.io/js-canvas-animations/on-hover-animate)
 
-particle-blur
-https://angeal185.github.io/js-canvas-animations/particle-blur
+[particle-animation](https://angeal185.github.io/js-canvas-animations/particle-animation)
 
-purple-clouds
-https://angeal185.github.io/js-canvas-animations/purple-clouds
+[particle-blur](https://angeal185.github.io/js-canvas-animations/particle-blur)
 
-````
+[purple-clouds](https://angeal185.github.io/js-canvas-animations/purple-clouds)
+
 #### Some of my other works
 
-````
+
 http://codepen.io/angeal185/
-````
+

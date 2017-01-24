@@ -1,6 +1,6 @@
 # js-canvas-animations
 
-## Shiny Demos
+## Demos
 
 [GLITCH!!!](https://angeal185.github.io/js-canvas-animations/GLITCH!!!/)
 

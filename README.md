@@ -8,6 +8,8 @@
 
 [animated-canvas-bubbles](https://angeal185.github.io/js-canvas-animations/animated-canvas-bubbles)
 
+[animated-canvas-bubbles-css](https://angeal185.github.io/js-canvas-animations/animated-canvas-bubbles-css)
+
 [animated-dots-jquery-canvas-plugin](https://angeal185.github.io/js-canvas-animations/animated-dots-jquery-canvas-plugin)
 
 [animated-hex-canvas](https://angeal185.github.io/js-canvas-animations/animated-hex-canvas)

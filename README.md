@@ -46,6 +46,8 @@
 
 [purple-clouds](https://angeal185.github.io/js-canvas-animations/purple-clouds)
 
+[fireflies](https://angeal185.github.io/js-canvas-animations/fireflies)
+
 #### Some of my other works
 
 

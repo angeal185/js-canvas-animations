@@ -1,5 +1,5 @@
 (function() {
-  var GLSL, error, gl, gui, nogl;
+  var GLSL, error, gl;
 
   GLSL = {
     vert: "\n#ifdef GL_ES\nprecision mediump float;\n#endif\n\n// Uniforms\nuniform vec2 u_resolution;\n\n// Attributes\nattribute vec2 a_position;\n\nvoid main() {\n    gl_Position = vec4 (a_position, 0, 1);\n}\n",
@@ -18,8 +18,6 @@
     });
   } catch (error1) {
     error = error1;
-    nogl = document.getElementById('nogl');
-    nogl.style.display = 'block';
   }
 
   if (gl) {
@@ -87,25 +85,7 @@
       this.viewport(0, 0, this.width, this.height);
       return this.updateUniforms();
     };
-    gui = new dat.GUI();
-    gui.add(gl, 'particles').step(1).min(0.1).max(100).onChange(function() {
-      return gl.updateUniforms();
-    });
-    gui.add(gl, 'brightness').step(1).min(0.1).max(100).onChange(function() {
-      return gl.updateUniforms();
-    });
-    gui.add(gl, 'blobiness').step(1).min(0.1).max(100).onChange(function() {
-      return gl.updateUniforms();
-    });
-    gui.add(gl, 'energy').step(1).min(0.1).max(400).onChange(function() {
-      return gl.updateUniforms();
-    });
-    gui.add(gl, 'scanlines').onChange(function() {
-      return gl.updateUniforms();
-    });
-    gui.close();
+
   }
 
 }).call(this);
-
-

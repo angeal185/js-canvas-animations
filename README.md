@@ -58,6 +58,8 @@
 
 [animated-fireworks-canvas](https://angeal185.github.io/js-canvas-animations/animated-fireworks-canvas)
 
+[snow](https://angeal185.github.io/js-canvas-animations/snow)
+
 #### Some of my other works
 
 

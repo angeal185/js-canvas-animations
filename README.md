@@ -52,6 +52,8 @@
 
 [animated-attract-triangle-canvas](https://angeal185.github.io/js-canvas-animations/animated-attract-triangle-canvas)
 
+[calm-animated-particle-background](https://angeal185.github.io/js-canvas-animations/calm-animated-particle-background)
+
 #### Some of my other works
 
 

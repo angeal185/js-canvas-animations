@@ -50,6 +50,8 @@
 
 [blood-cell-canvas](https://angeal185.github.io/js-canvas-animations/blood-cell-canvas)
 
+[animated-attract-triangle-canvas](https://angeal185.github.io/js-canvas-animations/animated-attract-triangle-canvas)
+
 #### Some of my other works
 
 

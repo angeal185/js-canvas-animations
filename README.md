@@ -48,6 +48,8 @@
 
 [fireflies](https://angeal185.github.io/js-canvas-animations/fireflies)
 
+[blood-cell-canvas](https://angeal185.github.io/js-canvas-animations/blood-cell-canvas)
+
 #### Some of my other works
 
 

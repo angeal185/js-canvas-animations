@@ -54,6 +54,8 @@
 
 [calm-animated-particle-background](https://angeal185.github.io/js-canvas-animations/calm-animated-particle-background)
 
+[star-particle-animated-gradient-canvas](https://angeal185.github.io/js-canvas-animations/star-particle-animated-gradient-canvas)
+
 #### Some of my other works
 
 

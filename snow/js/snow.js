@@ -1,4 +1,4 @@
-﻿Particle3D = function (material ) {
+Particle3D = function (material ) {
 
 	THREE.Particle.call( this, material );
 
@@ -113,7 +113,7 @@ function initSnowEffect() {
 	window.addEventListener( 'resize', onWindowResize, false );
 	function onWindowResize(){
 		if(window.innerWidth > 1024) {
-			SCREEN_WIDTH = window.innerWidth/2;
+			SCREEN_WIDTH = window.innerWidth/1;
 		}else {
 			SCREEN_WIDTH = window.innerWidth;
 		}

@@ -19,7 +19,7 @@ Particle3D.prototype.updatePhysics = function() {
 	this.velocity.addSelf(this.gravity);
 	this.position.addSelf(this.velocity);
 
-}
+};
 
 var TO_RADIANS = Math.PI/90; 
 
@@ -28,42 +28,40 @@ THREE.Vector3.prototype.rotateY = function(angle){
 	cosRY = Math.cos(angle * TO_RADIANS);
 	sinRY = Math.sin(angle * TO_RADIANS);
 	
-	var tempz = this.z;; 
+	var tempz = this.z;
 	var tempx = this.x; 
 
 	this.x= (tempx*cosRY)+(tempz*sinRY);
 	this.z= (tempx*-sinRY)+(tempz*cosRY);
 
 
-}
+};
 
 THREE.Vector3.prototype.rotateX = function(angle){
 					
 	cosRY = Math.cos(angle * TO_RADIANS);
 	sinRY = Math.sin(angle * TO_RADIANS);
 	
-	var tempz = this.z;; 
+	var tempz = this.z;
 	var tempy = this.y; 
 
 	this.y= (tempy*cosRY)+(tempz*sinRY);
 	this.z= (tempy*-sinRY)+(tempz*cosRY);
-
-
-}
+};
 
 THREE.Vector3.prototype.rotateZ = function(angle){
 					
 	cosRY = Math.cos(angle * TO_RADIANS);
 	sinRY = Math.sin(angle * TO_RADIANS);
 	
-	var tempx = this.x;; 
+	var tempx = this.x;
 	var tempy = this.y; 
 
 	this.y= (tempy*cosRY)+(tempx*sinRY);
 	this.x= (tempy*-sinRY)+(tempx*cosRY);
 
 
-}
+};
 
 function randomRange(min, max)
 {
@@ -192,7 +190,6 @@ function onDocumentTouchMove( event ) {
 	}
 }
 
-//
 
 function loop() {
 
@@ -220,3 +217,4 @@ function loop() {
 }
 
 initSnowEffect();
+

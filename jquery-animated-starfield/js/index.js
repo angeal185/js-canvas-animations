@@ -49,7 +49,7 @@ $(document).ready(function() {
 
     Starfield.prototype = {
       defaults: {
-        starColor: "rgba(255,255,255,1)",
+        starColor: "rgba(66, 45, 241, 0.92)",
         bgColor: "rgba(0,0,0,1)",
         mouseMove: true,
         mouseColor: "rgba(0,0,0,0.2)",

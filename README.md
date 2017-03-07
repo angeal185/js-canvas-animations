@@ -62,6 +62,8 @@
 
 [starmap](https://angeal185.github.io/js-canvas-animations/starmap)
 
+[js-only-flashing-background-effect](https://angeal185.github.io/js-canvas-animations/js-only-flashing-background-effect)
+
 #### Some of my other works
 
 

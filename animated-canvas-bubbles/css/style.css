@@ -1,11 +1,1 @@
-body {
-  background: #000;
-}
-#canvasbg,
-#canvas {
-  position: fixed;
-  z-index: 10;
-  top: 0;
-  left: 0;
-  background: transparent;
-}
+body{background:#000}#canvas,#canvasbg{position:fixed;z-index:10;top:0;left:0;background:0 0}

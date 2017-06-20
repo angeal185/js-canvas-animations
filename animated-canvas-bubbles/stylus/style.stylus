@@ -1,9 +1,0 @@
-body
-  background black
-  
-#canvasbg, #canvas 
-  position fixed
-  z-index 10
-  top 0
-  left 0
-  background transparent

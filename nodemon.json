@@ -9,10 +9,7 @@
     "js": "node"
   },
   "watch": [
-    "./",
-	"app/views/",
-	"app/css",
-	"app/js/"
+    "./**/**"
   ],
-  "ext": "js, html, css"
+  "ext": "js, html, css, coffee"
 }

@@ -1,33 +1,29 @@
 {
-  "name": "angular.survey.app",
+  "name": "js.canvas.animations",
   "version": "1.0.0",
-  "description": "angular survey app template",
+  "description": "js-canvas-animations",
   "main": "server.js",
   "scripts": {
     "start": "nodemon"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angeal185/angular-survey-app-template.git"
+    "url": "git+https://github.com/angeal185/js-canvas-animations.git"
   },
   "keywords": [
-    "angular"
+    "javascript"
   ],
   "author": "ben eaves",
   "license": "MIT",
-  "homepage": "https://github.com/angeal185/angular-survey-app-template",
+  "homepage": "https://github.com/angeal185/js-canvas-animations",
   "devDependencies": {
     "chalk": "^1.1.3",
     "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.1",
-    "gulp-concat-css": "^2.3.0",
     "gulp-htmlmin": "^3.0.0",
     "gulp-jshint": "^2.0.4",
     "gulp-minify-css": "^1.2.4",
     "gulp-nodemon": "^2.2.1",
     "gulp-notify": "^3.0.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-stylus": "^2.6.0",
     "gulp-uglify": "^2.0.1",
     "gulp-util": "^3.0.8",
     "jshint": "^2.9.4",

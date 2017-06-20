@@ -1,7 +1,1 @@
-html, body {
-    background: #000;
-    overflow: hidden;
-    margin: 0;
-}
-
-
+body,html{background:#000;overflow:hidden;margin:0}

@@ -56,6 +56,8 @@
 
 [star-particle-animated-gradient-canvas](https://angeal185.github.io/js-canvas-animations/star-particle-animated-gradient-canvas)
 
+[star-vortex](https://angeal185.github.io/js-canvas-animations/star-vortex)
+
 [animated-fireworks-canvas](https://angeal185.github.io/js-canvas-animations/animated-fireworks-canvas)
 
 [snow](https://angeal185.github.io/js-canvas-animations/snow)

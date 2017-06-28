@@ -66,7 +66,7 @@
 
 [js-only-flashing-background-effect](https://angeal185.github.io/js-canvas-animations/js-only-flashing-background-effect)
 
-[particle-drag-effect](https://github.com/angeal185/js-canvas-animations/tree/master/particle-drag-effect)
+[particle-drag-effect](https://angeal185.github.io/js-canvas-animations/particle-drag-effect)
 
 
 #### Some of my other works

@@ -66,6 +66,8 @@
 
 [js-only-flashing-background-effect](https://angeal185.github.io/js-canvas-animations/js-only-flashing-background-effect)
 
+[rotating-loader](https://angeal185.github.io/js-canvas-animations/rotating-loader)
+
 #### Some of my other works
 
 
